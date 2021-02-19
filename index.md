@@ -12,3 +12,5 @@ PoP Save | [Business Architecture](/PoPSave/BusinessArchitecture/index.html#list
 PoP Create | [Business Architecture](/PoPCreate/BusinessArchitecture/index.html#list) | |
 PoP Docs | [Business Architecture](/PoPDocs/BusinessArchitecture/index.html#list) | |
 PoP Vote | [Business Architecture](/PoPVote/BusinessArchitecture/index.html#list) | |
+PoP Exchange | [Business Architecture](/PoPExchange/BusinessArchitecture/index.html#list) | |
+

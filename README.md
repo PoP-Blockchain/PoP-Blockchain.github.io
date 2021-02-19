@@ -12,3 +12,4 @@ PoP Save | [Business Architecture](https://pop-blockchain.github.io/PoPSave/Busi
 PoP Create | [Business Architecture](https://pop-blockchain.github.io/PoPCreate/BusinessArchitecture/index.html#list) | |
 PoP Docs | [Business Architecture](https://pop-blockchain.github.io/PoPDocs/BusinessArchitecture/index.html#list) | |
 PoP Vote | [Business Architecture](https://pop-blockchain.github.io/PoPVote/BusinessArchitecture/index.html#list) | |
+PoP Exchange | [Business Architecture](https://pop-blockchain.github.io/PoPExchange/BusinessArchitecture/index.html#list) | |
