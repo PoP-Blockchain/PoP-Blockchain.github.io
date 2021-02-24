@@ -13,4 +13,4 @@ PoP Create | [Business Architecture](/PoPCreate/BusinessArchitecture/index.html#
 PoP Docs | [Business Architecture](/PoPDocs/BusinessArchitecture/index.html#list) | |
 PoP Vote | [Business Architecture](/PoPVote/BusinessArchitecture/index.html#list) | |
 PoP Exchange | [Business Architecture](/PoPExchange/BusinessArchitecture/index.html#list) | |
-
+Proar | [Business Architecture](/Proar/BusinessArchitecture/index.html#list) | |
