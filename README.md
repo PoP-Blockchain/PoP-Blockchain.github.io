@@ -8,7 +8,7 @@ Project | Business Model | Technical Model |
 :--------- | :------ | :------ | 
 PoP Blockchain | [Business Architecture](https://pop-blockchain.github.io/PoPBlockchain/BusinessArchitecture/index.html#list) | |
 PoP Secure | [Business Architecture](https://pop-blockchain.github.io/PoPSecure/BusinessArchitecture/index.html#list) | |
-PoP ERP | [Business Architecture](https://pop-blockchain.github.io/PoPERP/BusinessArchitecture/index.html#list) | |
+PoP ERP | [Business Architecture](https://pop-blockchain.github.io/PoPERP/BusinessArchitecture/index.html#list) | [Documentation](https://pop-blockchain.github.io/PoPERP/TechnicalArchitecture/index.html)|
 PoP Explore | [Business Architecture](https://pop-blockchain.github.io/PoPExplore/BusinessArchitecture/index.html#list) | |
 PoP Save | [Business Architecture](https://pop-blockchain.github.io/PoPSave/BusinessArchitecture/index.html#list) | |
 PoP Create | [Business Architecture](https://pop-blockchain.github.io/PoPCreate/BusinessArchitecture/index.html#list) | |
